@@ -12,5 +12,5 @@ Welcome to my profile. I am a student at the University of Denver, currently foc
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Grillmast&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Grillmast/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Grillmast&repo=convoychat" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
