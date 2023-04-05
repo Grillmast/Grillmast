@@ -4,7 +4,7 @@ Welcome to my profile. I am a student at the University of Denver, currently foc
 
 ### Languages and Tools 🛠
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![GIT](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=GIT&logoColor=white) ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white) ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ![Grillmasts GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillmast&show_icons=true&theme=dracula)
