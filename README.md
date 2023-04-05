@@ -4,7 +4,8 @@ Welcome to my profile. I am a student at the University of Denver, currently foc
 
 ### Languages and Tools 🛠
 
-#F7DF1E
+https://img.shields.io/badge/Badge-Message-Color?style=for-the-badge&logo=appveyor
+
 
 ![Grillmasts GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillmast&show_icons=true&theme=dracula)
 
