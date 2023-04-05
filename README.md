@@ -8,4 +8,4 @@ Welcome to my profile. I am a student at the University of Denver, currently foc
 
 
 ### GitHub Stats 📈
-![Grillmasts GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillmast&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grillmast&layout=compact)](https://github.com/Grillmast/github-readme-stats)
+![Grillmasts GitHub stats](https://github-readme-stats.vercel.app/api?username=Grillmast&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grillmast)](https://github.com/Grillmast/github-readme-stats)
