@@ -1,6 +1,6 @@
 ### About Me
 
-Welcome to my profile. I am a student at the University of Denver, currently focused on server-side development as part of my pursuit of coding proficiency. I am working diligently to gain expertise in this field, and plan to expand my knowledge to include Python and Django in the near future.
+I am an enthusiastic developer currently immersed in the process of learning Django and Python. I successfully completed the Full-Stack bootcamp at the University of Denver. My passion lies in back-end development and APIs. I am actively refining my skills through the creation of personal projects.
 
 ### Languages and Tools 🛠
 
